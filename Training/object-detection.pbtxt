@@ -1,0 +1,21 @@
+item {
+  id: 1
+  name: 'Happy'
+}
+item {
+  id: 2
+  name: 'Angry'
+}
+item {
+  id: 3
+  name: 'Surprised'
+}
+item {
+  id: 4
+  name: 'Neutral'
+}
+item {
+  id: 5
+  name: 'Disgusted'
+}
+
